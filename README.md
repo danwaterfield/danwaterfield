@@ -2,6 +2,7 @@
 - I'm a (the) founding engineer at insights4improvements, building a health and wellbeing focussed data platform for government. 
 - I have a doctorate in 18c Franco-British history and sometimes still write and talk about Frances Burney (1752-1840).
 - I'm from the UK 🇬🇧, live in AoNZ 🇳🇿, and have lived in 🇺🇸🇨🇦🇫🇷🇧🇬🇮🇹
+- The ginger cat is called Fin.
   
 
 <!--
