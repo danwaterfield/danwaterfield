@@ -1,4 +1,8 @@
 ## Hi there 👋
+- I'm a (the) founding engineer at insights4improvements, building a health and wellbeing focussed data platform for government. 
+- I have a doctorate in 18c Franco-British history and sometimes still write and talk about Frances Burney (1752-1840).
+- I'm from the UK 🇬🇧, live in AoNZ 🇳🇿, and have lived in 🇺🇸🇨🇦🇫🇷🇧🇬🇮🇹
+  
 
 <!--
 **danwaterfield/danwaterfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
